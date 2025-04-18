@@ -23,3 +23,6 @@ else:
             break
     else:
         easygui.msgbox(f"{nombre} est un nombre premier.")
+
+    
+    print("hello")
